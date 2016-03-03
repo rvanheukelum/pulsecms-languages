@@ -37,7 +37,7 @@ $lang_gal_dimensions = "Afmetingen";
 $lang_gal_size = "Grootte";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Link";
-$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+$lang_gallery_tool_tip = "Om een lightbox galerij aan te maken maak je een folder met afbeeldingen aan en gebruik je de 'embed' tag.";
 
 // Pages
 
@@ -68,7 +68,7 @@ $lang_blog_read_more = 'Lees verder';
 $lang_blog_older = 'Ouder';
 $lang_blog_newer = 'Nieuwer';
 $lang_blog_error_folder = "U kunt binnen 'Blog' geen folder aanmaken.";
-$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
+$lang_blog_tool_tip = "Blog posts worden op nummer gesorteerd; het hoogste nummer is de nieuwste post.";
 
 
 //Form
@@ -82,15 +82,15 @@ $lang_form_sent_button = 'Verzenden';
 
 // Stats
 
-$lang_stats_today = "Visitors";
-$lang_stats_refers = "Top Referrers";
-$lang_stats_pages = "Top Pages";
-$lang_stats_refresh = "Refresh";
-$lang_stats_pageviews = "Pageviews";
-$lang_stats_per_visit = "Pages / Visit";
+$lang_stats_today = "Bezoekers";
+$lang_stats_refers = "Populairste verwijzingen";
+$lang_stats_pages = "Populairste pagina's";
+$lang_stats_refresh = "Verversen";
+$lang_stats_pageviews = "Paginabezoeken";
+$lang_stats_per_visit = "Pagina's / Bezoek";
 $lang_stats_online = "Online";
-$lang_stats_thisweek = "This Week";
-$lang_stats_todays_stats = "Today";
-$lang_stats_nodata = "No Data";
+$lang_stats_thisweek = "Deze week";
+$lang_stats_todays_stats = "Vandaag";
+$lang_stats_nodata = "Geen gegevens";
 
 ?>
